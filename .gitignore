@@ -15,5 +15,7 @@
 *.pem
 
 # miscellaneous files
+*.swp
 token
 github-token
+backend-local.tf
